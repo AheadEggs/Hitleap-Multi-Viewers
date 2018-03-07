@@ -1,6 +1,6 @@
 # Basic Info
 
-This is a modified version of the original Hitleap Viewer software that allows you to run multiple copies of it on the same computer.
+This is a modified version of the original Hitleap Viewer software that allows you to run multiple copies of it on the same computer.  This software is currently working (in 2018).
 
 ### How It Works
 
